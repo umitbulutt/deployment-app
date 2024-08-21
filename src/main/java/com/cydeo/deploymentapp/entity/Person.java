@@ -1,5 +1,5 @@
 
-package com.cydeo.fakeuserapp.entity;
+package com.cydeo.deploymentapp.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

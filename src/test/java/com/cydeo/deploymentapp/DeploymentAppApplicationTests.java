@@ -1,10 +1,10 @@
-package com.cydeo.fakeuserapp;
+package com.cydeo.deploymentapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FakeUserAppApplicationTests {
+class DeploymentAppApplicationTests {
 
     @Test
     void contextLoads() {
